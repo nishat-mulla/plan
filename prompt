@@ -17,7 +17,8 @@ tables — no paragraphs, no narrative.</description>
 written: 
 - Skill Area 
 - Required 
-- Candidate 
+- Candidate
+- name
 - Fit Rating (⭐/100) 
 - Comments 
 Only include technical or functional skill areas from the job description. Do not modify column 
